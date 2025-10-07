@@ -1,1 +1,5 @@
-# rangga
+[Jadwal.html](https://github.com/user-attachments/files/22733634/Jadwal.html)
+[lirik lagu.html](https://github.com/user-attachments/files/22733636/lirik.lagu.html)[aboutme.html](https://github.com/user-attachments/files/22733641/aboutme.html)
+[volume kotak.html](https://github.com/user-attachments/files/22733639/volume.kotak.html)
+[luas persegi panjang.html](https://github.com/user-attachments/files/22733638/luas.persegi.panjang.html)
+[layout web.html](https://github.com/user-attachments/files/22733637/layout.web.html)
